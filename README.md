@@ -2,7 +2,11 @@
 ![tampilan_awal](https://github.com/user-attachments/assets/3aff8686-2f18-407e-b998-5d403a83b327)
 #Tampilan Admin#
 ![registeradmin](https://github.com/user-attachments/assets/47c4a13c-c932-4771-9297-0aab30ba84fc)
+#Middleware di admin
 ![middleware](https://github.com/user-attachments/assets/f124dc73-f41b-4aed-9afd-c3306e4ff1a4)
+#Tampilan login sebagai admin
 ![loginadmin](https://github.com/user-attachments/assets/e8ab806a-7bfa-4721-a521-122917fe03af)
+#Generate Key
 ![generate key](https://github.com/user-attachments/assets/a12b2e75-6487-48aa-b4e0-7cc7fe557b67)
+#Tampilan dashboard admin
 ![dashboardadmin](https://github.com/user-attachments/assets/9e0675fd-0bb6-4af0-8bfe-e5220db406b2)
